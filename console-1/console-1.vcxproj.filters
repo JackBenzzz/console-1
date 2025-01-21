@@ -74,5 +74,8 @@
     <ClInclude Include="Lesson43.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Lesson44.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

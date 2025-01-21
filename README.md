@@ -20,3 +20,4 @@ Description:
 13) 24-12-30_Lesson36 - functions, prototypes
 14) 24-12-31_Lesson37 - field of view, global & local variable
 15) 25-01-07_Lesson38 - default arguments (options) + question 4 Dmitry
+16) 25-01-13_25-01-22_Lessons39-44 - key word inline, embedded function//function's overload//function's templates//Stack + Recursion//Factorial
